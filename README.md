@@ -1,5 +1,3 @@
-# README.md
-
 ## Welcome to the Tor Discord Proxy Setup: Because Sometimes, Anonymity Isn't Just for Fun
 
 Ah, the internet! A place where cat videos reign supreme and your personal data is treated like a all-you-can-eat buffet for tech giants. But fear not, intrepid netizen, for we have a solution that's more powerful than you might think.
